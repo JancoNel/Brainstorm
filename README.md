@@ -4,7 +4,7 @@ Welcome to my little corner of chaos! This repository is where I brainstorm idea
 
 ## Please Ignore (Unless You're Interested)
 
-This repo is a work-in-progress and might not make a lot of sense to anyone but me. If you're curious about what I'm up to or if something catches your eye, feel free to create an issue. I'm always open to feedback, ideas, and collaboration.
+This repo is a work-in-progress and might not make a lot of sense to anyone but me. If you're curious about what I'm up to or if something catches your eye, feel free to create an issue. I'm always open to feedback, ideas, and collaboration. Run start.bat if you like chaos  :)
 
 ## How to Get Involved
 
